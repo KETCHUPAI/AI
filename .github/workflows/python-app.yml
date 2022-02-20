@@ -3,8 +3,7 @@
 
 name:KetchupAI
 
-on:[Yes]
-  push:
+on:[push]
     branches: [ main ]
   pull_request:
     branches: [ main ]
