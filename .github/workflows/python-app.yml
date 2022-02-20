@@ -36,3 +36,6 @@ jobs:
         pytest
 :Output
 ('Hello i am KetchupAI! your first artificial intelligence Friend')
+
+name =Input('what  is your name?/n')print ('Hi  my name is junior)
+
